@@ -1,0 +1,13 @@
+{
+    "elements": {
+        "fmt:formatdate": {}
+    },
+    "attributes": {
+        "\"0+\"": {
+            "context": "option"
+        },
+        "<c:if": {
+            "context": "option"
+        }
+    }
+}

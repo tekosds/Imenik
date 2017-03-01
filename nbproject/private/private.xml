@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/controllers/KartaController.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>146</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/PC/Desktop/ImenikDMS/web/WEB-INF/jsp/kontakt/kontakti.jsp</file>
+            <file>file:/C:/Users/PC/Desktop/ImenikDMS/web/WEB-INF/jsp/kontakt/izmeni.jsp</file>
+            <file>file:/C:/Users/PC/Desktop/ImenikDMS/src/java/modeli/AbstractModel.java</file>
+            <file>file:/C:/Users/PC/Desktop/ImenikDMS/src/java/controllers/KorisnikController.java</file>
+            <file>file:/C:/Users/PC/Desktop/ImenikDMS/web/WEB-INF/jsp/layout.jsp</file>
+            <file>file:/C:/Users/PC/Desktop/ImenikDMS/src/java/modeli/KontaktModel.java</file>
+            <file>file:/C:/Users/PC/Desktop/ImenikDMS/web/WEB-INF/jsp/pocetna.jsp</file>
+            <file>file:/C:/Users/PC/Desktop/ImenikDMS/src/java/controllers/MainController.java</file>
+            <file>file:/C:/Users/PC/Desktop/ImenikDMS/web/WEB-INF/jsp/korisnik/registracija.jsp</file>
+            <file>file:/C:/Users/PC/Desktop/ImenikDMS/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/PC/Desktop/ImenikDMS/src/java/controllers/KontaktController.java</file>
+            <file>file:/C:/Users/PC/Desktop/ImenikDMS/web/WEB-INF/jsp/kontakt/kreiraj.jsp</file>
+            <file>file:/C:/Users/PC/Desktop/ImenikDMS/src/java/pojo/Kontakt.java</file>
+            <file>file:/C:/Users/PC/Desktop/ImenikDMS/web/WEB-INF/jsp/logovanje.jsp</file>
+            <file>file:/C:/Users/PC/Desktop/ImenikDMS/src/java/modeli/KorisnikModel.java</file>
+        </group>
+    </open-files>
+</project-private>
